@@ -1,0 +1,40 @@
+4 FILES
+ 50000 NUMBERS
+  1000 nums in chunk: 903ms
+  10000 nums in chunk: 609ms
+ 100000 NUMBERS
+  1000 nums in chunk: 1866ms
+  10000 nums in chunk: 1415ms
+ 1000000 NUMBERS
+  1000 nums in chunk: 24822ms
+  10000 nums in chunk: 19294ms
+5 FILES
+ 50000 NUMBERS
+  1000 nums in chunk: 894ms
+  10000 nums in chunk: 576ms
+ 100000 NUMBERS
+  1000 nums in chunk: 1909ms
+  10000 nums in chunk: 1330ms
+ 1000000 NUMBERS
+  1000 nums in chunk: 24258ms
+  10000 nums in chunk: 19949ms
+6 FILES
+ 50000 NUMBERS
+  1000 nums in chunk: 854ms
+  10000 nums in chunk: 528ms
+ 100000 NUMBERS
+  1000 nums in chunk: 1883ms
+  10000 nums in chunk: 1376ms
+ 1000000 NUMBERS
+  1000 nums in chunk: 25419ms
+  10000 nums in chunk: 19506ms
+7 FILES
+ 50000 NUMBERS
+  1000 nums in chunk: 901ms
+  10000 nums in chunk: 540ms
+ 100000 NUMBERS
+  1000 nums in chunk: 1961ms
+  10000 nums in chunk: 1266ms
+ 1000000 NUMBERS
+  1000 nums in chunk: 25262ms
+  10000 nums in chunk: 20522ms

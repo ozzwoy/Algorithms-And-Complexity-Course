@@ -1,0 +1,30 @@
+MATRIX
+
+5x5
+Simple multiplication: 0ms
+Strassen algorithm: 1ms
+
+10x10
+Simple multiplication: 1ms
+Strassen algorithm: 5ms
+
+20x20
+Simple multiplication: 10ms
+Strassen algorithm: 39ms
+
+50x50
+Simple multiplication: 106ms
+Strassen algorithm: 259ms
+
+100x100
+Simple multiplication: 813ms
+Strassen algorithm: 1911ms
+
+200x200
+Simple multiplication: 6427ms
+Strassen algorithm: 14042ms
+
+500x500
+Simple multiplication: 101234ms
+Strassen algorithm: 100977ms
+
